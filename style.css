@@ -1,0 +1,15 @@
+#resultado {
+    width: 50px;
+  border-radius: 25% 10%;
+    background-color: blue;
+    border: 2px solid black;
+    margin: 2rem;
+    color:white;
+    padding:5%;
+  }
+  
+  h1 {
+    color: red;
+  }
+
+  
