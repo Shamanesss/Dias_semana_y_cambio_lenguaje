@@ -11,5 +11,16 @@
   h1 {
     color: red;
   }
-
-  
+#container{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+img{
+ width: 2rem;
+}
+li{
+  list-style: none;
+  display: inline-block;
+  padding: 2rem;
+}
